@@ -11,3 +11,4 @@ jdk:
   - $TRAVIS_BUILD_DIR/install-jdk.sh --install openjdk11 --target $JAVA_HOME
   - # do stuff with open OpenJDK 11
   - ./javac NumToText.java
+  
