@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
-//ver1 for progr inj
+
 public class NumToText {
     public static String a;
     public static String s;
