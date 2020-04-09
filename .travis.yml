@@ -1,5 +1,8 @@
 language: python
-
+addons:
+  SonarCloud:
+  organization: "goust201222"
+  token: 436bb7bd1c3bb4da448bb5cffda4e4cd6c3ab5d6
 script:
   - python NumToText.py
   - pytest
