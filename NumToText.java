@@ -2,7 +2,6 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 //asdasd
-
 public class NumToText {
     public static String a;
     public static String s;
