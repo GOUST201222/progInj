@@ -4,7 +4,7 @@ addons:
   organization: "goust201222"
   token: 436bb7bd1c3bb4da448bb5cffda4e4cd6c3ab5d6
   Coveralls:
-  service_name: travis-pro
+  
   repo_token: X9JE28wKPoiwsbfYDM7liSvbInh901vXu
 script:
   - python NumToText.py
