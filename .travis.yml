@@ -5,7 +5,6 @@ addons:
   token: 436bb7bd1c3bb4da448bb5cffda4e4cd6c3ab5d6
 install:
   - pip install coverage coveralls
-  - pip install -I -r requirements.txt
 script:
   - coverage run -m --source=. pytest 
 after_success:
